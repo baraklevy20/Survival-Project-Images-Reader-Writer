@@ -8,6 +8,7 @@ image.pak contains the data itself while image.idx contains pointers to the data
 
 # Usage
 -e PATH to extract the PAK file. PATH must contain image.idx and image.pak
+
 -p PATH to pack into a PAK file. PATH needs to be the extracted images folder
 
 # image.idx file format
