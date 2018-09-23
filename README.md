@@ -1,5 +1,5 @@
 # Survival-Project-Images-Reader-Writer
-A console interface that allows the user to unpack the PAK file of the game Survival Project and pack it back
+**A console interface that allows the user to unpack the PAK file of the game Survival Project and pack it back**
 
 
 Survival project's images are packed using two files - image.idx and image.pak.
@@ -21,6 +21,7 @@ Then a list of files follows.
 
 ### Each file has the following fields
 4 bytes - Checksum of the file name (below).
+
 255 bytes - File name
 
 4 bytes - File size
